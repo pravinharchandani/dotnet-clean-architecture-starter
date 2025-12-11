@@ -1,4 +1,12 @@
 # Clean Architecture .NET 10 Starter Template — MediatR, EF Core, API & Tests
+---
+
+## 👤 **Author**
+
+**Pravin Harchandani**
+🔗 LinkedIn: [https://www.linkedin.com/in/pravinh/](https://www.linkedin.com/in/pravinh/)
+
+---
 ### Project Overview
 **MySolution Clean Architecture Starter** - A minimal, production-ready Clean Architecture scaffold for .NET 10 backends.  
 Use this repository as a starting point for enterprise backends or as a reference implementation to learn Clean Architecture, MediatR, EF Core, and test patterns.
